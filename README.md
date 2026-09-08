@@ -131,7 +131,7 @@ LAB-AP-2026/
 
 # Commit dan Push
 
-Setelah tugas selesai:
+Setelah tugas selesai dan diasistensikan:
 
 ### 1. Cek perubahan
 
@@ -172,6 +172,5 @@ Setelah berhasil melakukan push:
 5. Pastikan **Compare branch** adalah branch NIM Anda.
 6. Periksa kembali file tugas.
 7. Klik **Create Pull Request**.
-8. Tunggu proses pemeriksaan oleh asisten.
 
 > ⚠️ **PENTING:** Jangan membuat Pull Request dari branch `main`. Pastikan Pull Request dibuat dari branch **NIM masing-masing**.
