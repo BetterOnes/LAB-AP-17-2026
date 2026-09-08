@@ -1,4 +1,4 @@
-# LAB-AP-2026
+# LAB-AP-17-2026
 # Repository Tugas Lab Algoritma dan Pemrograman
 
 Repository ini digunakan sebagai media pengumpulan tugas praktikum **Algoritma dan Pemrograman**.
